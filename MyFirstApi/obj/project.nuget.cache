@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "QscWJxJ0Nok=",
+  "success": true,
+  "projectFilePath": "/Users/mathewmansfield/Desktop/Coding/Bridgerland/backend/MyFirstApi/MyFirstApi/MyFirstApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/mathewmansfield/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/Users/mathewmansfield/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "/Users/mathewmansfield/.nuget/packages/microsoft.aspnetcore.openapi/10.0.9/microsoft.aspnetcore.openapi.10.0.9.nupkg.sha512",
+    "/Users/mathewmansfield/.nuget/packages/microsoft.extensions.apidescription.server/10.0.0/microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "/Users/mathewmansfield/.nuget/packages/microsoft.openapi/2.7.5/microsoft.openapi.2.7.5.nupkg.sha512",
+    "/Users/mathewmansfield/.nuget/packages/swashbuckle.aspnetcore/10.3.0/swashbuckle.aspnetcore.10.3.0.nupkg.sha512",
+    "/Users/mathewmansfield/.nuget/packages/swashbuckle.aspnetcore.swagger/10.3.0/swashbuckle.aspnetcore.swagger.10.3.0.nupkg.sha512",
+    "/Users/mathewmansfield/.nuget/packages/swashbuckle.aspnetcore.swaggergen/10.3.0/swashbuckle.aspnetcore.swaggergen.10.3.0.nupkg.sha512",
+    "/Users/mathewmansfield/.nuget/packages/swashbuckle.aspnetcore.swaggerui/10.3.0/swashbuckle.aspnetcore.swaggerui.10.3.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'AutoMapper' 12.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-rvv3-g6hj-g44x",
+      "projectPath": "/Users/mathewmansfield/Desktop/Coding/Bridgerland/backend/MyFirstApi/MyFirstApi/MyFirstApi.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/mathewmansfield/Desktop/Coding/Bridgerland/backend/MyFirstApi/MyFirstApi/MyFirstApi.csproj",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
